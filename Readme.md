@@ -4,7 +4,7 @@
 
 Actually all these things like commits, languages used etc are nothing because whatever I make are usually private. So, it will be better to have an one-on-one talk (also I don't update my portfolio all the time, so kinda old experiences up there).
 
-Reach Me at: **[prayasdas.rkl@gmail.com](mailto:prayasdas.rkl@gmail.com)**.
+Reach Me at: ****.
 
 <!--
 ## 🌐 Socials:
@@ -15,7 +15,7 @@ Reach Me at: **[prayasdas.rkl@gmail.com](mailto:prayasdas.rkl@gmail.com)**.
 -->
 
 # 📊 Stats
-![](https://streak-stats.demolab.com/?user=prayasdev&theme=dark&hide_border=false)<br/>
+![]<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=prayasdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!--
@@ -28,6 +28,6 @@ Reach Me at: **[prayasdas.rkl@gmail.com](mailto:prayasdas.rkl@gmail.com)**.
 ![](https://github-contributor-stats.vercel.app/api?username=codeKidaGyan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
 ---
-[![](https://komarev.com/ghpvc/?username=prayasdev&icon=0)](https://visitcount.itsvg.in)
+[![]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
