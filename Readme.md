@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I am Prayas
+  Hi, I am Braja
 </h1>
 
 Actually all these things like commits, languages used etc are nothing because whatever I make are usually private. So, it will be better to have an one-on-one talk (also I don't update my portfolio all the time, so kinda old experiences up there).
@@ -16,7 +16,7 @@ Reach Me at: ****.
 
 # 📊 Stats
 ![]<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=prayasdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![]()
 
 <!--
 <div align="center">
